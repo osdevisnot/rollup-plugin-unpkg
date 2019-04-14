@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-unpkg",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "keywords": [
     "rollup-plugin"
@@ -8,8 +8,8 @@
   "author": "osdevisnot <osdevisnot@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "read-pkg": "^5.0.0",
     "estree-walker": "^0.6.0",
-    "magic-string": "^0.25.2"
+    "magic-string": "^0.25.2",
+    "read-pkg": "^5.0.0"
   }
 }
